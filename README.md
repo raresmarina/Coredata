@@ -1,5 +1,5 @@
 ## Description
-This project is an iOS application developed in UIKit, utilizing Core Data for data management and adhering to the MVVM (Model-View-ViewModel) architecture.
+This project is an iOS application developed in Swift & UIKit, utilizing Core Data for data management and adhering to the MVVM (Model-View-ViewModel) architecture.
 
 ## Key Features
 1. **TableView with Swipe Actions**
